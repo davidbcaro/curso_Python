@@ -1,0 +1,12 @@
+lista=[1,1,1,2,8,8,3,3,4,1,3,5,6]
+print(lista)
+'''
+conjunto=set()
+conjunto=set(lista)
+lista=list(conjunto)
+lista.sort()
+print(lista)
+'''
+lista=list(set(lista))
+lista.sort()
+print(lista)

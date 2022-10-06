@@ -1,0 +1,14 @@
+Total de líneas: 8
+Total de palabras: 26
+Total de caracteres: 173
+La palabra 'tres' tiene una frecuencia de: 4
+La palabra 'tristes' tiene una frecuencia de: 4
+La palabra 'tigres' tiene una frecuencia de: 2
+La palabra 'tragaban' tiene una frecuencia de: 2
+La palabra 'trigo' tiene una frecuencia de: 2
+La palabra 'en' tiene una frecuencia de: 2
+La palabra 'trastos' tiene una frecuencia de: 2
+La palabra 'sentados' tiene una frecuencia de: 2
+La palabra 'tras' tiene una frecuencia de: 2
+La palabra 'un' tiene una frecuencia de: 2
+La palabra 'trigal' tiene una frecuencia de: 2
