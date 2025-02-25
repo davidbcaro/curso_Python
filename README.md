@@ -4,6 +4,7 @@
 ## Enlaces de interés
 - [Web oficial de Python](https://www.python.org/)
 - [Tutorial oficial de Python en Español](https://docs.python.org/es/3/tutorial/index.html)
+- [Aprede Python](https://aprendepython.es/)
 - [El libro de Python](https://ellibrodepython.com/)
 - [Recursos para el desarrollo con Python](https://learn.microsoft.com/es-es/windows/python/resources)
 - [Python para todos PY4E](https://es.py4e.com/lessons)
